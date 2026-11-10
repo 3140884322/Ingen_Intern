@@ -1,0 +1,10 @@
+{
+  "n_deployments": 10,
+  "n_churned": 2,
+  "auc": 0.8125,
+  "precision_at_0_5": 0.5,
+  "recall_at_0_5": 0.5,
+  "top_k_precision": 0.2,
+  "effective_k": 10,
+  "threshold": 0.5
+}
